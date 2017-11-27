@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class Auto
+   
+    public partial class Auto
     {
+        
         private int _maxSpeed;
         private string _name;
         private long _cost;//цена
@@ -28,9 +30,44 @@ namespace ClassLibrary1
         {
             _countOfCar = 0;
         }
-        public void Show();
-        public bool IsBuy(int money);//хватает ли на покупку
-        public bool IsNew();//Новая ли машина 
+        public Auto(int maxspeed,string name,long cost,bool isNew,int yearOFCreate)
+        {
+            _maxSpeed = maxspeed;
+            _name = name;
+            _cost = cost;
+            _isNew = isNew;
+            _yearOfCreate = yearOFCreate;
+            _countOfCar++;
+        }
+        public Auto( string name, long cost, bool isNew)
+        {
+            _maxSpeed = 0;
+            _name = name;
+            _cost = cost;
+            _isNew = isNew;
+            _yearOfCreate = 0;
+            _countOfCar++;
+        }
+        public void Show()
+        {
+            Console.WriteLine("Максимальная скорость - {0}", _maxSpeed);
+            Console.WriteLine("Имя - {0}", _name);
+            Console.WriteLine("Цена - {0}", _cost);
+            Console.WriteLine("Год создания - {0}", _yearOfCreate);
+        }
+        public bool IsBuy(int money) {//хватает ли на покупку
+            if (money >= _cost)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        public bool IsNew() {
+            return _isNew;
+        }//Новая ли машина 
         public void SetMaxSpeed(int maxspeed)
         {
             _maxSpeed = maxspeed;

@@ -1,0 +1,8 @@
+C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\Dz_Lesson_3\bin\Debug\Dz_Lesson_3.exe.config
+C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\Dz_Lesson_3\bin\Debug\Dz_Lesson_3.exe
+C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\Dz_Lesson_3\bin\Debug\Dz_Lesson_3.pdb
+C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\Dz_Lesson_3\bin\Debug\ClassLibrary1.dll
+C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\Dz_Lesson_3\bin\Debug\ClassLibrary1.pdb
+C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\Dz_Lesson_3\obj\Debug\Dz_Lesson_3.csprojResolveAssemblyReference.cache
+C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\Dz_Lesson_3\obj\Debug\Dz_Lesson_3.exe
+C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\Dz_Lesson_3\obj\Debug\Dz_Lesson_3.pdb
