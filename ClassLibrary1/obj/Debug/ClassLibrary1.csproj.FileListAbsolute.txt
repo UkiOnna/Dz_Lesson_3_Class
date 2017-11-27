@@ -3,3 +3,8 @@ C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\Clas
 C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
 C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\СикировТ\documents\visual studio 2017\Projects\Dz_Lesson_3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\My Documents\Visual Studio 2017\Projects\dzlass\dz\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\My Documents\Visual Studio 2017\Projects\dzlass\dz\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\My Documents\Visual Studio 2017\Projects\dzlass\dz\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2017\Projects\dzlass\dz\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\My Documents\Visual Studio 2017\Projects\dzlass\dz\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

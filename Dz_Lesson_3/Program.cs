@@ -10,10 +10,17 @@ namespace Dz_Lesson_3
     {
         static void Main(string[] args)
         {
-            long cena = 8;
+            long cost = 8;
             bool isNew = true;
-            string str = "Coco";
-            Auto[] autos = new Auto[5];
+            string name = "Coco";
+            int maxSpeed = 250;
+            int year = 2001;
+
+            Auto[] autos=new Auto [5];
+            for(int i = 0; i < autos.Length; i++)
+            {
+                autos[i] = new Auto(maxSpeed, name, cost, isNew, year);
+            }
             autos[2].Show();
             Console.ReadLine();
 
